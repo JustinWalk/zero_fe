@@ -1,0 +1,5 @@
+{
+    "appName": "foorbarbaz",
+    "environment": "staging",
+    "backendURL": "https://be.justinwalk.com"
+}
